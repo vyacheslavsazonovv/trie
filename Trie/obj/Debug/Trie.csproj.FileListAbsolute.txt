@@ -1,0 +1,6 @@
+D:\vs\Trie\Trie\bin\Debug\Trie.exe.config
+D:\vs\Trie\Trie\obj\Debug\Trie.exe
+D:\vs\Trie\Trie\obj\Debug\Trie.pdb
+D:\vs\Trie\Trie\bin\Debug\Trie.exe
+D:\vs\Trie\Trie\bin\Debug\Trie.pdb
+D:\vs\Trie\Trie\obj\Debug\Trie.csprojResolveAssemblyReference.cache
